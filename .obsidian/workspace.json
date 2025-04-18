@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "panduan/format-penulisan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "format-penulisan"
             }
           }
         ]
@@ -182,20 +182,20 @@
   "active": "500b01bb2e5341c6",
   "lastOpenFiles": [
     "CONTRIBUTION.md",
-    "academic-notes/semester-1/Untitled.md",
     "README.md",
+    "panduan/how-to-use.md",
+    "panduan/format-penulisan.md",
+    "academic-notes/semester-1/Untitled.md",
     "panduan/kontribusi.md",
     "panduan",
-    "academic-notes/panduan/format-penulisan.md",
     "academic-notes/panduan/CONTRIBUTION 1.md",
-    "academic-notes/panduan/how-to-use.md",
     "CONTRIBUTING.md",
     "academic-notes/Untitled.md",
     "academic-notes/semester-2/fisika-informatika/002-uts",
     "academic-notes/semester-2/fisika-informatika/003-uas",
     "academic-notes/semester-2/fisika-informatika/001-materi",
     "academic-notes/semester-2/fisika-informatika",
-    "academic-notes/panduan",
+    "panduan",
     "academic-notes/semester-2",
     "academic-notes/semester-1",
     "academic-notes",

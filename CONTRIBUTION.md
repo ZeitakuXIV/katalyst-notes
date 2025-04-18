@@ -16,7 +16,7 @@ git checkout -b rangkuman-kalkulus-bab-2
 
 ## 3. Tulis Materi atau Rangkuman
 
-Setelah membuat branch, mulailah menulis materi atau rangkuman. Pastikan mengikuti **format penulisan** yang sudah ditentukan di [Format Penulisan Materi](./format-penulisan.md). Ini akan membuat semuanya lebih terstruktur dan mudah dibaca oleh orang lain.
+Setelah membuat branch, mulailah menulis materi atau rangkuman. Pastikan mengikuti **format penulisan** yang sudah ditentukan di [Format Penulisan Materi](format-penulisan.md). Ini akan membuat semuanya lebih terstruktur dan mudah dibaca oleh orang lain.
 
 ## 4. Commit Perubahan
 
@@ -52,7 +52,7 @@ Kami sangat menyarankan kamu untuk terus berkontribusi! Semakin banyak yang berk
 - Pastikan materi yang kamu tulis relevan dan sesuai dengan topik.
 - Jangan ragu untuk menambah penjelasan kalau ada bagian yang bisa dibuat lebih jelas.
 - Jika kamu ingin membuat rangkuman untuk topik yang sudah ada, pastikan untuk menambah sudut pandang atau penjelasan tambahan yang bermanfaat.
-- Cek apakah materi yang kamu tulis sudah sesuai dengan format yang disarankan di [Format Penulisan Materi](./format-penulisan.md).
+- Cek apakah materi yang kamu tulis sudah sesuai dengan format yang disarankan di [Format Penulisan Materi](format-penulisan.md).
 
 ---
 
