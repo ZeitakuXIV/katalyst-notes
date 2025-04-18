@@ -30,14 +30,13 @@ academic-notes/
 │
 ├── panduan/
 │   ├── how-to-use.md
-│   ├── kontribusi.md
 │   └── format-penulisan.md
 │
 ├── assets/
 │   └── gambar/
 │
 ├── README.md
-└── CONTRIBUTING.md
+└── CONTRIBUTION.md
 ```
 
 ## ✍️ Cara Kontribusi
