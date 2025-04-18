@@ -47,7 +47,7 @@ academic-notes/
 3. Commit perubahan dan buat Pull Request (PR)
 4. Tim kami akan review dan merge bila sudah sesuai
 
-> 📌 Panduan lengkap kontribusi ada di [`panduan/kontribusi.md`](./panduan/kontribusi.md)
+> 📌 Panduan lengkap kontribusi ada di [`CONTRIBUTION.md`](./CONTRIBUTION.md)
 
 ## 🔧 Tools yang Disarankan
 
