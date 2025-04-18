@@ -2,7 +2,7 @@
 
 Selamat datang di repositori catatan akademik kolaboratif! 🎓  
 Repo ini dibuat untuk membantu mahasiswa memahami materi kuliah melalui rangkuman yang jelas, padat, dan mudah dipahami — oleh mahasiswa, untuk mahasiswa.
-
+(masih ai-generated, kontennya harus disesuaiin lagi)
 ## 💡 Tujuan
 - Menyediakan sumber belajar alternatif yang relevan dengan materi kuliah
 - Mendorong budaya kolaboratif dalam belajar

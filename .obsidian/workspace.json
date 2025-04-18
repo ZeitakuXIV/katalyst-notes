@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/general-template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "general-template"
+              "title": "README"
             }
           }
         ],
@@ -197,16 +197,16 @@
   },
   "active": "3c044bd1927ffb78",
   "lastOpenFiles": [
+    "README.md",
+    "panduan/format-penulisan.md",
     "panduan/how-to-use.md",
+    "templates/general-template.md",
     "panduan/latex-guides.md",
     "panduan/templater-guide.md",
-    "templates/general-template.md",
     "panduan/tes-kouya.md",
-    "README.md",
     "panduan/hai-kouya.md",
     "panduan/tes-kouya.md.md",
     "templates",
-    "panduan/format-penulisan.md",
     "CONTRIBUTION.md",
     "academic-notes/semester-1/Untitled.md",
     "panduan/kontribusi.md",

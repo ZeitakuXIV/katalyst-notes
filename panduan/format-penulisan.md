@@ -15,17 +15,11 @@ Setiap file itu bakal diatur dengan struktur yang simpel, dan ini dia contohnya:
 
 - Mulai dengan judul yang jelas, misalnya “**Kalkulus 2 - Rangkuman Bab 1**”.
 - Gunakan heading (`##`, `###`, dsb.) buat bagian-bagian penting.
-
+```markdown
 # Kalkulus 2 - Rangkuman Bab 1
 ## Deret Konvergen
-```
 ### Pengantar
-
 Sebelum masuk ke materi inti, tulis pengantar singkat tentang apa yang bakal dibahas. Cukup 2-3 kalimat aja biar orang ngerti tujuan materi ini.
-
-```markdown
-## Pengantar
-Di bab ini kita bakal ngebahas tentang deret konvergen, yang penting banget buat memahami topik-topik berikutnya.
 ```
 
 ### Isi Materi
